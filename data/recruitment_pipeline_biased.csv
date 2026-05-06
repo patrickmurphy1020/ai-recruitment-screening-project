@@ -1,0 +1,501 @@
+CandidateID,Gender,Ethnicity,DisabilityStatus,RoleType,StageReached
+1,Female,Other,None,Mid-Level,Screened
+2,Prefer Not to Say,Mixed,Sensory,Mid-Level,Applied
+3,Non-Binary,Hispanic/Latinx,None,Senior,Screened
+4,Male,Other,Mental Health,Senior,Applied
+5,Male,Hispanic/Latinx,Mental Health,Mid-Level,Hired
+6,Non-Binary,Black,None,Mid-Level,Applied
+7,Non-Binary,Other,None,Senior,Applied
+8,Non-Binary,Black,Sensory,Senior,Applied
+9,Prefer Not to Say,Other,Mental Health,Senior,Applied
+10,Male,White,None,Mid-Level,Screened
+11,Non-Binary,Asian,None,Junior,Applied
+12,Prefer Not to Say,Black,None,Junior,Applied
+13,Non-Binary,Other,None,Junior,Interviewed
+14,Female,Asian,None,Junior,Screened
+15,Female,Black,None,Mid-Level,Applied
+16,Male,Mixed,None,Junior,Applied
+17,Prefer Not to Say,Other,None,Senior,Applied
+18,Female,Mixed,None,Senior,Applied
+19,Female,White,None,Junior,Applied
+20,Prefer Not to Say,Other,None,Senior,Screened
+21,Non-Binary,White,None,Mid-Level,Shortlisted
+22,Prefer Not to Say,Asian,None,Junior,Applied
+23,Non-Binary,Black,None,Junior,Applied
+24,Female,Hispanic/Latinx,None,Mid-Level,Applied
+25,Female,White,Mental Health,Senior,Applied
+26,Female,Hispanic/Latinx,None,Mid-Level,Applied
+27,Male,Hispanic/Latinx,None,Mid-Level,Shortlisted
+28,Male,Black,None,Senior,Screened
+29,Male,Asian,Mental Health,Mid-Level,Hired
+30,Prefer Not to Say,Black,None,Senior,Interviewed
+31,Female,Other,None,Senior,Screened
+32,Female,White,None,Mid-Level,Screened
+33,Prefer Not to Say,Hispanic/Latinx,None,Senior,Applied
+34,Male,Black,None,Mid-Level,Screened
+35,Prefer Not to Say,Black,None,Senior,Shortlisted
+36,Male,Black,None,Junior,Applied
+37,Female,White,None,Senior,Shortlisted
+38,Non-Binary,Asian,None,Senior,Applied
+39,Male,Black,None,Mid-Level,Interviewed
+40,Female,White,Physical,Senior,Shortlisted
+41,Female,Hispanic/Latinx,None,Junior,Screened
+42,Non-Binary,Other,Physical,Junior,Screened
+43,Female,Mixed,None,Senior,Screened
+44,Female,White,None,Senior,Interviewed
+45,Male,Mixed,None,Junior,Hired
+46,Male,Black,Mental Health,Mid-Level,Screened
+47,Non-Binary,Black,None,Junior,Screened
+48,Non-Binary,White,None,Junior,Screened
+49,Female,Mixed,None,Senior,Interviewed
+50,Male,Black,None,Senior,Screened
+51,Non-Binary,Hispanic/Latinx,None,Junior,Interviewed
+52,Non-Binary,Asian,None,Mid-Level,Screened
+53,Prefer Not to Say,Asian,None,Junior,Applied
+54,Non-Binary,Black,None,Junior,Applied
+55,Female,Mixed,None,Mid-Level,Screened
+56,Male,Other,None,Junior,Applied
+57,Non-Binary,Black,None,Junior,Applied
+58,Prefer Not to Say,Other,None,Senior,Screened
+59,Male,Other,None,Mid-Level,Applied
+60,Non-Binary,Mixed,None,Senior,Applied
+61,Prefer Not to Say,Other,Mental Health,Senior,Screened
+62,Non-Binary,Hispanic/Latinx,Mental Health,Mid-Level,Shortlisted
+63,Male,Mixed,Physical,Mid-Level,Screened
+64,Male,Black,None,Junior,Hired
+65,Male,Hispanic/Latinx,None,Senior,Screened
+66,Female,White,None,Mid-Level,Applied
+67,Non-Binary,Asian,None,Senior,Screened
+68,Female,Black,None,Senior,Screened
+69,Male,Black,None,Mid-Level,Applied
+70,Prefer Not to Say,Black,Sensory,Junior,Applied
+71,Non-Binary,Hispanic/Latinx,Physical,Senior,Screened
+72,Female,White,None,Mid-Level,Applied
+73,Non-Binary,Mixed,None,Junior,Screened
+74,Prefer Not to Say,White,None,Senior,Applied
+75,Female,Hispanic/Latinx,None,Mid-Level,Screened
+76,Male,Black,None,Senior,Screened
+77,Female,Asian,None,Mid-Level,Applied
+78,Non-Binary,Black,None,Mid-Level,Applied
+79,Non-Binary,Mixed,None,Senior,Screened
+80,Non-Binary,Other,None,Senior,Interviewed
+81,Non-Binary,Asian,None,Mid-Level,Shortlisted
+82,Male,Black,None,Junior,Screened
+83,Female,Asian,Physical,Senior,Screened
+84,Male,Other,None,Mid-Level,Applied
+85,Male,White,None,Mid-Level,Applied
+86,Male,Hispanic/Latinx,None,Junior,Applied
+87,Non-Binary,Black,None,Junior,Screened
+88,Non-Binary,Mixed,Mental Health,Junior,Applied
+89,Non-Binary,White,None,Senior,Applied
+90,Female,Black,None,Mid-Level,Screened
+91,Prefer Not to Say,White,None,Mid-Level,Interviewed
+92,Non-Binary,Mixed,Cognitive,Mid-Level,Applied
+93,Female,Black,None,Junior,Applied
+94,Non-Binary,Other,None,Mid-Level,Screened
+95,Non-Binary,Other,None,Senior,Screened
+96,Male,Mixed,None,Junior,Screened
+97,Male,Asian,None,Junior,Applied
+98,Male,Mixed,None,Junior,Screened
+99,Female,Asian,None,Junior,Shortlisted
+100,Prefer Not to Say,Black,Sensory,Senior,Applied
+101,Prefer Not to Say,Asian,None,Mid-Level,Hired
+102,Female,Black,None,Senior,Applied
+103,Non-Binary,Black,None,Mid-Level,Applied
+104,Female,Hispanic/Latinx,None,Senior,Applied
+105,Non-Binary,Black,None,Junior,Applied
+106,Female,Asian,None,Junior,Applied
+107,Female,Hispanic/Latinx,None,Senior,Applied
+108,Female,Hispanic/Latinx,None,Senior,Screened
+109,Prefer Not to Say,Black,None,Mid-Level,Shortlisted
+110,Male,Mixed,None,Senior,Screened
+111,Female,Mixed,None,Senior,Applied
+112,Prefer Not to Say,Other,None,Mid-Level,Screened
+113,Male,Hispanic/Latinx,None,Mid-Level,Screened
+114,Male,Black,Cognitive,Mid-Level,Interviewed
+115,Female,Mixed,Sensory,Senior,Interviewed
+116,Non-Binary,Black,None,Mid-Level,Interviewed
+117,Non-Binary,Black,None,Junior,Applied
+118,Non-Binary,Hispanic/Latinx,None,Junior,Screened
+119,Female,Other,Physical,Junior,Applied
+120,Non-Binary,Hispanic/Latinx,None,Senior,Hired
+121,Prefer Not to Say,White,None,Junior,Applied
+122,Prefer Not to Say,Mixed,None,Senior,Applied
+123,Prefer Not to Say,Mixed,Physical,Senior,Applied
+124,Prefer Not to Say,Mixed,None,Junior,Interviewed
+125,Male,Asian,None,Mid-Level,Screened
+126,Prefer Not to Say,Black,None,Senior,Applied
+127,Non-Binary,Hispanic/Latinx,None,Junior,Shortlisted
+128,Female,Mixed,None,Senior,Shortlisted
+129,Non-Binary,White,None,Mid-Level,Applied
+130,Prefer Not to Say,Mixed,None,Mid-Level,Applied
+131,Male,Other,None,Junior,Interviewed
+132,Prefer Not to Say,Black,None,Senior,Shortlisted
+133,Female,Black,None,Senior,Screened
+134,Non-Binary,Hispanic/Latinx,None,Senior,Screened
+135,Female,Asian,None,Senior,Applied
+136,Female,Hispanic/Latinx,None,Junior,Interviewed
+137,Female,Mixed,None,Mid-Level,Screened
+138,Non-Binary,Other,None,Junior,Screened
+139,Prefer Not to Say,White,None,Senior,Applied
+140,Female,Hispanic/Latinx,Sensory,Senior,Shortlisted
+141,Non-Binary,Asian,None,Mid-Level,Screened
+142,Male,Hispanic/Latinx,None,Senior,Applied
+143,Non-Binary,Black,None,Junior,Screened
+144,Male,Mixed,None,Junior,Screened
+145,Non-Binary,Mixed,Sensory,Mid-Level,Screened
+146,Prefer Not to Say,Mixed,Physical,Junior,Screened
+147,Female,Mixed,None,Junior,Screened
+148,Prefer Not to Say,Mixed,None,Junior,Shortlisted
+149,Non-Binary,Mixed,None,Junior,Applied
+150,Female,White,None,Senior,Applied
+151,Male,Asian,None,Junior,Applied
+152,Non-Binary,Mixed,None,Mid-Level,Screened
+153,Female,Asian,None,Mid-Level,Screened
+154,Male,Other,None,Junior,Shortlisted
+155,Male,Mixed,Cognitive,Mid-Level,Screened
+156,Prefer Not to Say,Hispanic/Latinx,None,Junior,Screened
+157,Non-Binary,Mixed,Physical,Mid-Level,Hired
+158,Male,Black,None,Mid-Level,Applied
+159,Female,White,None,Junior,Interviewed
+160,Male,Hispanic/Latinx,None,Junior,Applied
+161,Male,Hispanic/Latinx,None,Senior,Screened
+162,Prefer Not to Say,Black,None,Junior,Screened
+163,Prefer Not to Say,Mixed,None,Junior,Screened
+164,Female,White,Other,Senior,Applied
+165,Prefer Not to Say,Hispanic/Latinx,None,Junior,Applied
+166,Male,White,None,Junior,Screened
+167,Male,Hispanic/Latinx,Cognitive,Senior,Interviewed
+168,Prefer Not to Say,Mixed,None,Junior,Screened
+169,Male,Other,None,Junior,Shortlisted
+170,Male,Hispanic/Latinx,None,Senior,Applied
+171,Female,Other,Physical,Senior,Screened
+172,Prefer Not to Say,Hispanic/Latinx,Mental Health,Mid-Level,Interviewed
+173,Male,Asian,Mental Health,Junior,Screened
+174,Prefer Not to Say,Mixed,None,Mid-Level,Hired
+175,Female,Black,Physical,Mid-Level,Screened
+176,Prefer Not to Say,Other,None,Senior,Screened
+177,Male,Black,None,Junior,Applied
+178,Prefer Not to Say,Mixed,None,Junior,Screened
+179,Male,Black,None,Senior,Applied
+180,Male,Mixed,Mental Health,Mid-Level,Screened
+181,Male,Black,Cognitive,Senior,Applied
+182,Female,Other,None,Junior,Applied
+183,Prefer Not to Say,Asian,None,Senior,Applied
+184,Female,Black,None,Junior,Applied
+185,Prefer Not to Say,Other,Physical,Mid-Level,Applied
+186,Female,Hispanic/Latinx,None,Junior,Interviewed
+187,Non-Binary,Mixed,None,Mid-Level,Interviewed
+188,Male,White,None,Mid-Level,Interviewed
+189,Male,White,None,Junior,Interviewed
+190,Female,Mixed,None,Junior,Applied
+191,Non-Binary,Asian,Cognitive,Mid-Level,Interviewed
+192,Male,Black,None,Senior,Applied
+193,Prefer Not to Say,Asian,None,Junior,Applied
+194,Female,White,None,Mid-Level,Screened
+195,Male,Other,None,Mid-Level,Applied
+196,Male,Mixed,Mental Health,Senior,Screened
+197,Female,Mixed,None,Junior,Applied
+198,Female,Asian,None,Mid-Level,Interviewed
+199,Prefer Not to Say,Other,None,Senior,Screened
+200,Prefer Not to Say,Asian,None,Mid-Level,Applied
+201,Male,Black,None,Junior,Screened
+202,Male,Hispanic/Latinx,None,Senior,Applied
+203,Female,Other,None,Mid-Level,Screened
+204,Male,Hispanic/Latinx,None,Senior,Applied
+205,Male,Black,None,Junior,Screened
+206,Female,Hispanic/Latinx,None,Senior,Screened
+207,Male,White,None,Junior,Applied
+208,Male,Hispanic/Latinx,None,Mid-Level,Shortlisted
+209,Non-Binary,Black,Sensory,Junior,Interviewed
+210,Prefer Not to Say,Hispanic/Latinx,Sensory,Mid-Level,Screened
+211,Female,Mixed,None,Mid-Level,Interviewed
+212,Non-Binary,Asian,None,Junior,Applied
+213,Prefer Not to Say,White,None,Mid-Level,Screened
+214,Prefer Not to Say,Mixed,None,Senior,Applied
+215,Prefer Not to Say,Mixed,Physical,Mid-Level,Applied
+216,Non-Binary,Black,None,Junior,Hired
+217,Non-Binary,Asian,None,Senior,Screened
+218,Prefer Not to Say,Asian,Physical,Senior,Applied
+219,Male,Other,Sensory,Mid-Level,Applied
+220,Male,White,None,Mid-Level,Screened
+221,Non-Binary,Black,None,Junior,Applied
+222,Non-Binary,White,None,Senior,Applied
+223,Non-Binary,Other,None,Junior,Applied
+224,Prefer Not to Say,Hispanic/Latinx,Cognitive,Mid-Level,Screened
+225,Male,Mixed,Physical,Senior,Screened
+226,Non-Binary,White,None,Junior,Applied
+227,Non-Binary,Mixed,None,Junior,Interviewed
+228,Female,Black,Physical,Junior,Applied
+229,Prefer Not to Say,Hispanic/Latinx,None,Junior,Screened
+230,Female,Black,None,Junior,Hired
+231,Male,Hispanic/Latinx,None,Senior,Screened
+232,Female,Hispanic/Latinx,None,Junior,Interviewed
+233,Female,Mixed,None,Senior,Shortlisted
+234,Female,Black,None,Junior,Screened
+235,Prefer Not to Say,Black,None,Mid-Level,Screened
+236,Male,White,None,Mid-Level,Shortlisted
+237,Female,Black,None,Junior,Applied
+238,Prefer Not to Say,White,None,Mid-Level,Applied
+239,Male,Asian,None,Senior,Shortlisted
+240,Non-Binary,Asian,Physical,Junior,Screened
+241,Female,Asian,None,Senior,Applied
+242,Male,Other,None,Junior,Screened
+243,Female,Black,None,Mid-Level,Interviewed
+244,Non-Binary,Other,Physical,Senior,Screened
+245,Male,Black,None,Mid-Level,Screened
+246,Prefer Not to Say,White,None,Mid-Level,Interviewed
+247,Male,Other,None,Junior,Screened
+248,Prefer Not to Say,Other,None,Senior,Screened
+249,Male,Other,None,Mid-Level,Interviewed
+250,Prefer Not to Say,Hispanic/Latinx,None,Junior,Screened
+251,Non-Binary,White,None,Junior,Screened
+252,Non-Binary,Asian,None,Junior,Applied
+253,Non-Binary,White,None,Mid-Level,Screened
+254,Male,Hispanic/Latinx,None,Junior,Hired
+255,Non-Binary,Black,None,Senior,Applied
+256,Female,White,None,Senior,Applied
+257,Non-Binary,Other,None,Mid-Level,Screened
+258,Prefer Not to Say,Asian,None,Senior,Interviewed
+259,Prefer Not to Say,Asian,None,Junior,Applied
+260,Prefer Not to Say,Black,Sensory,Mid-Level,Applied
+261,Male,White,Mental Health,Junior,Applied
+262,Female,Hispanic/Latinx,None,Mid-Level,Screened
+263,Non-Binary,Black,None,Mid-Level,Applied
+264,Female,White,None,Junior,Applied
+265,Female,Mixed,Physical,Senior,Applied
+266,Prefer Not to Say,Asian,None,Senior,Shortlisted
+267,Prefer Not to Say,Hispanic/Latinx,None,Mid-Level,Applied
+268,Prefer Not to Say,Other,None,Junior,Applied
+269,Male,Hispanic/Latinx,None,Junior,Screened
+270,Female,Other,Physical,Mid-Level,Shortlisted
+271,Female,Hispanic/Latinx,None,Senior,Screened
+272,Male,Asian,None,Junior,Hired
+273,Male,Other,Sensory,Senior,Interviewed
+274,Male,White,None,Senior,Applied
+275,Female,Other,None,Mid-Level,Screened
+276,Female,Black,None,Mid-Level,Applied
+277,Prefer Not to Say,White,Mental Health,Senior,Screened
+278,Prefer Not to Say,Black,None,Junior,Applied
+279,Female,Hispanic/Latinx,None,Junior,Applied
+280,Prefer Not to Say,White,None,Mid-Level,Shortlisted
+281,Male,Hispanic/Latinx,None,Senior,Applied
+282,Non-Binary,Mixed,None,Junior,Shortlisted
+283,Prefer Not to Say,Hispanic/Latinx,None,Junior,Applied
+284,Female,Hispanic/Latinx,None,Mid-Level,Applied
+285,Prefer Not to Say,Black,Cognitive,Senior,Interviewed
+286,Prefer Not to Say,Other,None,Junior,Screened
+287,Prefer Not to Say,Mixed,None,Mid-Level,Interviewed
+288,Non-Binary,Hispanic/Latinx,None,Junior,Applied
+289,Male,Hispanic/Latinx,None,Junior,Screened
+290,Female,Mixed,Cognitive,Junior,Screened
+291,Non-Binary,Mixed,None,Mid-Level,Screened
+292,Female,White,None,Senior,Screened
+293,Female,Black,None,Mid-Level,Shortlisted
+294,Female,Mixed,None,Senior,Screened
+295,Non-Binary,Mixed,None,Junior,Shortlisted
+296,Male,Asian,None,Senior,Interviewed
+297,Female,Other,None,Junior,Interviewed
+298,Male,Mixed,None,Junior,Applied
+299,Male,Black,None,Mid-Level,Applied
+300,Prefer Not to Say,Other,None,Junior,Shortlisted
+301,Non-Binary,Other,Mental Health,Mid-Level,Applied
+302,Non-Binary,Hispanic/Latinx,None,Senior,Applied
+303,Prefer Not to Say,Hispanic/Latinx,None,Senior,Applied
+304,Prefer Not to Say,Hispanic/Latinx,None,Junior,Applied
+305,Male,Hispanic/Latinx,None,Mid-Level,Shortlisted
+306,Female,Asian,None,Junior,Shortlisted
+307,Non-Binary,Mixed,Cognitive,Mid-Level,Applied
+308,Female,Hispanic/Latinx,None,Mid-Level,Applied
+309,Female,White,Sensory,Mid-Level,Screened
+310,Prefer Not to Say,Hispanic/Latinx,None,Senior,Screened
+311,Female,Mixed,None,Mid-Level,Hired
+312,Male,Hispanic/Latinx,Cognitive,Senior,Screened
+313,Prefer Not to Say,Asian,None,Mid-Level,Applied
+314,Female,Black,Mental Health,Senior,Screened
+315,Prefer Not to Say,Black,None,Senior,Hired
+316,Male,Mixed,Cognitive,Senior,Screened
+317,Male,Black,None,Junior,Screened
+318,Female,Black,None,Mid-Level,Applied
+319,Prefer Not to Say,White,None,Junior,Interviewed
+320,Female,Mixed,None,Mid-Level,Interviewed
+321,Female,Mixed,None,Mid-Level,Applied
+322,Prefer Not to Say,Black,None,Junior,Screened
+323,Female,Black,None,Senior,Applied
+324,Male,Black,None,Mid-Level,Applied
+325,Prefer Not to Say,Other,None,Senior,Applied
+326,Prefer Not to Say,Asian,None,Junior,Applied
+327,Prefer Not to Say,Hispanic/Latinx,None,Senior,Screened
+328,Prefer Not to Say,Asian,None,Mid-Level,Applied
+329,Female,Mixed,None,Mid-Level,Applied
+330,Female,White,None,Mid-Level,Shortlisted
+331,Male,Hispanic/Latinx,None,Junior,Screened
+332,Non-Binary,White,Cognitive,Mid-Level,Screened
+333,Non-Binary,Other,Physical,Junior,Applied
+334,Male,Mixed,None,Senior,Screened
+335,Non-Binary,Other,None,Mid-Level,Applied
+336,Male,Mixed,None,Mid-Level,Interviewed
+337,Female,White,None,Mid-Level,Applied
+338,Prefer Not to Say,White,None,Senior,Screened
+339,Prefer Not to Say,White,None,Mid-Level,Applied
+340,Female,Mixed,None,Junior,Interviewed
+341,Prefer Not to Say,Black,None,Senior,Screened
+342,Prefer Not to Say,White,None,Senior,Screened
+343,Non-Binary,Other,Sensory,Senior,Applied
+344,Female,Hispanic/Latinx,None,Senior,Screened
+345,Non-Binary,Mixed,Physical,Senior,Shortlisted
+346,Non-Binary,Other,Other,Junior,Interviewed
+347,Prefer Not to Say,Asian,None,Senior,Applied
+348,Prefer Not to Say,Asian,None,Mid-Level,Applied
+349,Female,Hispanic/Latinx,None,Senior,Shortlisted
+350,Prefer Not to Say,Black,Mental Health,Senior,Screened
+351,Prefer Not to Say,White,Mental Health,Senior,Screened
+352,Female,Mixed,None,Senior,Shortlisted
+353,Prefer Not to Say,Other,None,Senior,Shortlisted
+354,Non-Binary,White,None,Junior,Screened
+355,Female,Other,None,Junior,Screened
+356,Prefer Not to Say,Mixed,None,Senior,Applied
+357,Male,Asian,Cognitive,Junior,Screened
+358,Female,White,None,Mid-Level,Applied
+359,Female,Hispanic/Latinx,None,Senior,Applied
+360,Male,Black,None,Mid-Level,Applied
+361,Prefer Not to Say,Hispanic/Latinx,None,Mid-Level,Applied
+362,Prefer Not to Say,Black,None,Senior,Screened
+363,Female,Other,None,Mid-Level,Screened
+364,Female,White,Cognitive,Mid-Level,Applied
+365,Prefer Not to Say,White,Cognitive,Mid-Level,Applied
+366,Prefer Not to Say,Black,None,Senior,Shortlisted
+367,Non-Binary,Asian,Sensory,Senior,Applied
+368,Female,Mixed,None,Mid-Level,Interviewed
+369,Female,Hispanic/Latinx,None,Senior,Shortlisted
+370,Male,Other,None,Senior,Screened
+371,Non-Binary,Hispanic/Latinx,None,Mid-Level,Screened
+372,Prefer Not to Say,Hispanic/Latinx,Cognitive,Senior,Shortlisted
+373,Non-Binary,Other,None,Junior,Applied
+374,Prefer Not to Say,Other,None,Senior,Screened
+375,Prefer Not to Say,White,None,Junior,Screened
+376,Non-Binary,Hispanic/Latinx,None,Mid-Level,Applied
+377,Female,Mixed,None,Senior,Interviewed
+378,Prefer Not to Say,Mixed,None,Mid-Level,Shortlisted
+379,Non-Binary,Black,None,Mid-Level,Interviewed
+380,Male,Other,None,Mid-Level,Applied
+381,Non-Binary,White,Physical,Mid-Level,Applied
+382,Male,Mixed,None,Mid-Level,Screened
+383,Prefer Not to Say,Asian,None,Senior,Applied
+384,Non-Binary,White,None,Junior,Screened
+385,Non-Binary,White,None,Senior,Screened
+386,Male,Mixed,None,Senior,Screened
+387,Non-Binary,Asian,None,Senior,Screened
+388,Non-Binary,Black,Cognitive,Senior,Applied
+389,Prefer Not to Say,Mixed,None,Junior,Applied
+390,Non-Binary,Asian,Physical,Senior,Applied
+391,Female,White,Other,Mid-Level,Screened
+392,Male,Asian,None,Senior,Screened
+393,Non-Binary,White,None,Senior,Interviewed
+394,Male,Mixed,None,Junior,Interviewed
+395,Male,Other,Mental Health,Junior,Shortlisted
+396,Male,Mixed,Cognitive,Mid-Level,Applied
+397,Non-Binary,Hispanic/Latinx,None,Senior,Applied
+398,Non-Binary,Hispanic/Latinx,None,Senior,Applied
+399,Male,Hispanic/Latinx,None,Senior,Screened
+400,Female,Mixed,Mental Health,Mid-Level,Applied
+401,Male,Black,Mental Health,Junior,Interviewed
+402,Female,Mixed,None,Mid-Level,Screened
+403,Male,Other,None,Senior,Shortlisted
+404,Prefer Not to Say,Asian,None,Junior,Shortlisted
+405,Male,Mixed,None,Junior,Applied
+406,Male,Mixed,Physical,Mid-Level,Applied
+407,Non-Binary,White,None,Junior,Screened
+408,Female,White,None,Junior,Applied
+409,Prefer Not to Say,White,None,Senior,Screened
+410,Female,Mixed,Mental Health,Senior,Screened
+411,Prefer Not to Say,Black,None,Junior,Applied
+412,Male,Asian,None,Junior,Screened
+413,Non-Binary,Asian,None,Mid-Level,Screened
+414,Non-Binary,Other,Mental Health,Mid-Level,Applied
+415,Female,Black,Physical,Junior,Screened
+416,Non-Binary,Black,None,Senior,Applied
+417,Female,Asian,None,Junior,Interviewed
+418,Female,Hispanic/Latinx,None,Junior,Applied
+419,Prefer Not to Say,White,None,Senior,Shortlisted
+420,Female,White,None,Senior,Screened
+421,Prefer Not to Say,Asian,Cognitive,Mid-Level,Applied
+422,Non-Binary,Black,None,Mid-Level,Applied
+423,Female,Other,Physical,Mid-Level,Applied
+424,Female,Hispanic/Latinx,None,Mid-Level,Applied
+425,Male,Asian,None,Senior,Screened
+426,Female,White,None,Junior,Screened
+427,Female,Mixed,None,Mid-Level,Applied
+428,Male,Black,None,Mid-Level,Applied
+429,Male,Mixed,None,Senior,Interviewed
+430,Non-Binary,Other,None,Senior,Screened
+431,Female,Asian,None,Junior,Applied
+432,Non-Binary,White,None,Junior,Interviewed
+433,Non-Binary,Hispanic/Latinx,Other,Senior,Applied
+434,Male,Mixed,None,Mid-Level,Interviewed
+435,Prefer Not to Say,Hispanic/Latinx,Physical,Mid-Level,Applied
+436,Non-Binary,Other,None,Mid-Level,Applied
+437,Prefer Not to Say,White,None,Junior,Shortlisted
+438,Female,Mixed,None,Mid-Level,Applied
+439,Male,Other,Sensory,Mid-Level,Screened
+440,Female,Hispanic/Latinx,None,Senior,Applied
+441,Female,Hispanic/Latinx,None,Mid-Level,Screened
+442,Male,Mixed,None,Senior,Shortlisted
+443,Female,White,None,Mid-Level,Applied
+444,Male,Hispanic/Latinx,None,Junior,Interviewed
+445,Prefer Not to Say,Asian,None,Mid-Level,Screened
+446,Female,Other,None,Mid-Level,Screened
+447,Male,Mixed,Sensory,Senior,Screened
+448,Non-Binary,Black,None,Senior,Interviewed
+449,Female,Black,None,Senior,Applied
+450,Prefer Not to Say,White,None,Mid-Level,Applied
+451,Male,Asian,None,Mid-Level,Shortlisted
+452,Female,Hispanic/Latinx,None,Junior,Screened
+453,Female,Black,None,Mid-Level,Applied
+454,Female,White,Mental Health,Junior,Screened
+455,Prefer Not to Say,Other,Sensory,Senior,Screened
+456,Male,Asian,Sensory,Senior,Applied
+457,Non-Binary,Asian,None,Senior,Applied
+458,Non-Binary,White,None,Junior,Screened
+459,Non-Binary,White,None,Mid-Level,Applied
+460,Male,Hispanic/Latinx,None,Senior,Interviewed
+461,Non-Binary,White,None,Mid-Level,Interviewed
+462,Prefer Not to Say,Hispanic/Latinx,None,Mid-Level,Applied
+463,Male,Hispanic/Latinx,None,Senior,Applied
+464,Female,Mixed,None,Junior,Applied
+465,Prefer Not to Say,Asian,None,Mid-Level,Screened
+466,Female,Other,None,Senior,Interviewed
+467,Non-Binary,Asian,None,Mid-Level,Applied
+468,Prefer Not to Say,Asian,None,Mid-Level,Screened
+469,Male,Mixed,None,Mid-Level,Applied
+470,Prefer Not to Say,Hispanic/Latinx,None,Mid-Level,Applied
+471,Female,Hispanic/Latinx,Physical,Mid-Level,Applied
+472,Male,White,None,Junior,Applied
+473,Prefer Not to Say,Mixed,None,Junior,Applied
+474,Prefer Not to Say,White,None,Senior,Screened
+475,Prefer Not to Say,Mixed,None,Junior,Shortlisted
+476,Prefer Not to Say,White,Physical,Junior,Screened
+477,Male,Black,None,Junior,Applied
+478,Female,Asian,None,Mid-Level,Applied
+479,Prefer Not to Say,Asian,Sensory,Mid-Level,Applied
+480,Male,Other,None,Senior,Applied
+481,Female,Hispanic/Latinx,None,Senior,Screened
+482,Prefer Not to Say,Other,None,Senior,Screened
+483,Female,Black,None,Mid-Level,Applied
+484,Female,Other,None,Junior,Applied
+485,Male,Asian,None,Junior,Applied
+486,Female,Hispanic/Latinx,Other,Mid-Level,Applied
+487,Male,Black,None,Senior,Screened
+488,Prefer Not to Say,Asian,None,Senior,Applied
+489,Female,White,None,Senior,Screened
+490,Female,Mixed,Cognitive,Mid-Level,Screened
+491,Non-Binary,Black,Physical,Senior,Interviewed
+492,Prefer Not to Say,Hispanic/Latinx,None,Senior,Interviewed
+493,Prefer Not to Say,Other,None,Mid-Level,Interviewed
+494,Non-Binary,Other,None,Junior,Applied
+495,Non-Binary,Black,None,Mid-Level,Screened
+496,Male,Hispanic/Latinx,None,Mid-Level,Interviewed
+497,Male,Black,None,Mid-Level,Applied
+498,Female,Hispanic/Latinx,None,Mid-Level,Screened
+499,Female,Other,Cognitive,Junior,Interviewed
+500,Female,Asian,None,Senior,Screened
